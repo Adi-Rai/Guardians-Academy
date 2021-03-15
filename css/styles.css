@@ -72,10 +72,15 @@ hr{
     list-style: disc;
 }
 .batch{ 
-    color: #007965;
+    
     display:inline-block;
     padding: 0 1rem;
     font-size: 1.2rem;
+}
+
+.batch a{
+    color: #007965; 
+    text-decoration: none;
 }
 
 
